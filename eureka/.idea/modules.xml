@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/consumer-hello/consumer-hello.iml" filepath="$PROJECT_DIR$/consumer-hello/consumer-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-discovery/service-discovery.iml" filepath="$PROJECT_DIR$/service-discovery/service-discovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-hello/service-hello.iml" filepath="$PROJECT_DIR$/service-hello/service-hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/parent/twostepsfromjava-cloud-parent.iml" filepath="$PROJECT_DIR$/parent/twostepsfromjava-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/twostepsfromjava-clouds.iml" filepath="$PROJECT_DIR$/twostepsfromjava-clouds.iml" />
+    </modules>
+  </component>
+</project>

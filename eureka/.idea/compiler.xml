@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-hello" />
+        <module name="service-discovery" />
+        <module name="service-hello" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="consumer-hello" target="1.8" />
+      <module name="service-discovery" target="1.8" />
+      <module name="service-hello" target="1.8" />
+      <module name="twostepsfromjava-cloud-parent" target="1.8" />
+      <module name="twostepsfromjava-clouds" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
